@@ -446,6 +446,10 @@ li{
         width: 100%;
         height: auto;
     }
+    .left-area img{
+        width:50%;
+        height:30%;
+    }
     .left-content{
         display: none;
     }
@@ -515,6 +519,11 @@ footer{
 }
 }
 @media(max-width:400px) {
+
+     .left-area img{
+        width:50%;
+        height:30%;
+    }
     .navbar {
         padding: 0;
     }
